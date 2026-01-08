@@ -8,7 +8,7 @@ Date: 08-01-2026
 
 ## Project Overview
 
-The FlexiMart Data Architecture Project demonstrates the design and implementation of a complete data solution for an e-commerce business.
+The FlexiMart Data Architecture Project demonstrates that the design and implementation of a complete data solution for an e-commerce business.
 The project covers relational database ETL processing, NoSQL modeling using MongoDB, and data warehouse design with analytical reporting.
 It showcases how transactional data can be transformed into structured insights to support business decision-making.
 
